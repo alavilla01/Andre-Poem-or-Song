@@ -1,0 +1,29 @@
+img {
+    width: 1000px; /* width of image is 1000px */
+    height: 500px; /* height of image is 500px */
+}
+
+header {
+    text-align: center; /* header is aligned at the center */
+    padding: 2rem; /* adds spacing on all sides of the header */
+    margin-bottom: 2rem;  /* adds spacing on the header's bottom */
+    border-style: solid; /* gives the header a solid border */
+}
+
+h1 {
+    color: brown; /* gives header 1 the color brown */
+    font-size: 100px; /* gives header 1 the size of 100px, which makes it bigger */
+}
+
+body {
+    background-color: yellow; /* background color is yellow */
+}
+
+main {
+    font-family: 'Open Sans', sans-serif; /* gives the lyrics the sans-serif font type */
+}
+
+.main {
+    /* this line below gives the lyrics the background image of tacos */
+    background-image: url(https://png.pngtree.com/png-clipart/20220910/original/pngtree-illustration-of-tacos-with-various-toppings-png-image_8530472.png);
+}
